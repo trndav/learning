@@ -1,4 +1,4 @@
-""" cars.py
+""" cars.py Module 6, week 3.
 locale en_US.UTF8 not present on system, so script returns locale.Error: unsupported locale setting if using en_US.UTF8 as asked
 
 check with: locale -a
